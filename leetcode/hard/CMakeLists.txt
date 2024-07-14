@@ -1,1 +1,2 @@
 add_subdirectory(1028_Recover_a_Tree_From_Preorder_Traversal)
+add_subdirectory(726_Number_of_Atoms)
