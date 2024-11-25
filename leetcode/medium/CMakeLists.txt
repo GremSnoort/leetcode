@@ -1,1 +1,2 @@
 add_subdirectory(98_Validate_Binary_Search_Tree)
+add_subdirectory(96_Unique_Binary_Search_Trees)
